@@ -1,0 +1,85 @@
+.title
+{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;    
+    font-family: 'Italiana','sans-serif';
+}
+
+#pasta, .child.pasta
+{
+    color: #EEBE00;
+    background-color:#fff6cf;    
+}
+
+#initial
+{
+    color:#ffa500;
+    background-color:#f9edd9;
+}
+
+#salad, .child.salad
+{
+    color: #83B721;
+    background-color: #e2fab5;
+}
+
+#brownies, .child.brownies
+{
+    color: #de163d;
+    background-color: #f9edd9;
+    /* #d6c3a4 alternative to background-color */
+}
+
+.subtitle
+{
+    font-size: 36px;
+    font-family:'Amatic SC', 'sans-serif';
+}
+
+.subtitle .body
+{
+    font-size: 14px;
+    font-family:'Darker Grotesque', 'sans-serif';
+}
+
+.subtitle.paragraph
+{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #d3d3d3;
+}
+
+/*.child
+{
+    background-color:  #d3d3d3;
+}*/
+
+.hint .head
+{
+    color: #9027fc;
+    font-family: 'Lekton', 'Courier Prime','Monospaced';
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #d2a6ff;
+}
+
+.personal-comments
+{
+    font-size: 15px;
+    font-family: 'Trirong', 'serif';
+}
+
+.end
+{
+    font-size: 50px;
+    font-weight:bold;
+    font-family: 'Cedarville Cursive', 'Bad Script', 'Cursive';
+    text-align:center;
+}
+
+.image
+{
+    height: auto;
+    width: auto;
+}
